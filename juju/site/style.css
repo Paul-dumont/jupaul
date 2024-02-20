@@ -140,3 +140,13 @@ left: 5%;
 font-weight: 300;
 }
 
+.imgnav{
+    display: flex;
+    align-items: center;
+}
+
+.imgnav img{
+    margin-left: 5px;
+    height: 25% ;
+    width: 25%;
+}
